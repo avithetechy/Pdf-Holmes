@@ -2,7 +2,7 @@
 A clever ChatBot named after the famous fictional character Sherlock Holmes that investigates and extracts the info from pdf and answers the queries regarding that pdf
 
 ![1](https://github.com/avithetechy/Pdf-Holmes/assets/107698410/126342ce-4fe6-4b9e-808b-73bb8c23acf1)
-**output according to the pdf
+*output according to the pdf
 
 
 instructions: 
