@@ -12,3 +12,5 @@ instructions:
    --> example variables:  openai_api = your openai api key(no need to enclose within quotes)
                            huggingface_api = your hugginface api(no need to enclose within quotes)
 3. need--> ram >= 16gb gpu>= 4gb
+
+Use Pinecone or FAISS vectorstore according to system capabilities
