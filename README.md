@@ -25,4 +25,4 @@ instructions:
                            huggingface_api = your hugginface api(no need to enclose within quotes)
 3. need--> ram >= 16gb gpu>= 4gb
 
-Use Pinecone or FAISS vectorstore according to system capabilities
+Use Pinecone(cloud) or FAISS(local) vectorstore according to system capabilities
